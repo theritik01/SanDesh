@@ -2,6 +2,8 @@
 
 This is a simple single-page web application that demonstrates using React and whose name is Sandesh. Sandesh is a news app that can grab quick daily news bites. If you are interested in news, weather, politics, entertainment, science, health, and sports news then SanDesh for you.
 
+<h2>Landing Page</h2>
+<img src="https://i.postimg.cc/nh3b5Snz/Landing-page.png">
 
 # Getting Started with Create React App
 
